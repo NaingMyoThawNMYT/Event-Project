@@ -15,8 +15,8 @@ public class WishListFragment extends Fragment {
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_wish_list, container, false);
-        final TextView textView = root.findViewById(R.id.text_wish_list);
+        View root = inflater.inflate(R.layout.fragment_wishlist, container, false);
+        final TextView textView = root.findViewById(R.id.text_wishlist);
         textView.setText("This is wishlist fragment");
         return root;
     }
