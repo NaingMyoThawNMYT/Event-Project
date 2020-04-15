@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Event Project</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_wishlist">Wishlist</string>
+    <string name="title_purchase">Purchase</string>
 </resources>
